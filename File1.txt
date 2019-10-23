@@ -9,8 +9,8 @@ This is file1...welcome to Git...!!!
 	       List
 	       Products
 	       Mobiles--> Apple,Samsung,Sony etc...
-	       Tshirts 	
-	       Jeans
+	       clothing --> Tshirts, Jeans 	
+	       Furniture	
 
 	</Body>
 
