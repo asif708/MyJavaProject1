@@ -11,6 +11,7 @@ This is file1...welcome to Git...!!!
 	       Mobiles--> Apple,Samsung,Sony etc...
 	       Tshirts 	
 	       Jeans
+	       Home Decor
 
 	</Body>
 
